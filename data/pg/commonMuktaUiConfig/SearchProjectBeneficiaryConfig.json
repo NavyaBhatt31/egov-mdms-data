@@ -1,6 +1,5 @@
 {
-  "tenantId": "pg",
-  "moduleName": "commonMuktaUiConfig",
+ 
   "SearchProjectBeneficiaryConfig": [
     {
       "label": "SEARCH_BENEFICIARY",

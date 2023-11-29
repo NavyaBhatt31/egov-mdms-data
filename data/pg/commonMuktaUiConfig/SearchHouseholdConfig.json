@@ -1,6 +1,5 @@
 {
-  "tenantId": "pg",
-  "moduleName": "commonMuktaUiConfig",
+ 
   "SearchHouseholdConfig": [
     {
       "label": "SEARCH_HOUSEHOLD",

@@ -1,6 +1,5 @@
 {
-  "tenantId": "pg",
-  "moduleName": "commonMuktaUiConfig",
+  
   "SearchProjectConfig2": [
     {
       "label": "SEARCH_PROJECTS",

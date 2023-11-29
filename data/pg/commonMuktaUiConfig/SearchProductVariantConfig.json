@@ -1,6 +1,4 @@
 {
-  "tenantId": "pg",
-  "moduleName": "commonMuktaUiConfig",
   "SearchProductVarConfig": [
     {
       "label": "SEARCH_PRODUCT_VAR",
